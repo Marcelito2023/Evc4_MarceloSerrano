@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalEvaluacion</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fabrication">Fabricación: %s</string>
+    <string name="price">Precio: %s</string>
+    <string name="warranty">Garantía: %s</string>
+    <string name="car_type">Tipo de automóvil: %s</string>
+</resources>
